@@ -10,6 +10,7 @@ List Of Pasted Features
 1. Menu
 2. One Of the Resolvers
 3. Some Sounds
+4. Some Cham Materials
 
 # Where are configs stored?
 
