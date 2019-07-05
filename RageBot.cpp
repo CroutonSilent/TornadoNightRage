@@ -361,7 +361,7 @@ auto hitbox_to_String = [](int hitgroup) -> std::string
 	}
 };
 
-void CAimbot::mirror_console_debug(IClientEntity * the_nignog)
+void CAimbot::tornadonight_console_debug(IClientEntity * the_nignog)
 {
 
 	bool gay = backtracking->good_tick(TIME_TO_TICKS(pTarget->GetSimulationTime() + backtracking->GetLerpTime()));

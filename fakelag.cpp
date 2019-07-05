@@ -95,7 +95,7 @@ void fakelag::when_enemy_sight(bool &bSendPacket, IClientEntity * local, float a
 	}
 }
 
-void fakelag::mirror_adaptive(bool &packet, IClientEntity * local, int ammount, bool break_lc, CUserCmd* cmd)
+void fakelag::tornadonight_adaptive(bool &packet, IClientEntity * local, int ammount, bool break_lc, CUserCmd* cmd)
 {
 	bool done = false;
 	int choked;
@@ -269,9 +269,9 @@ void fakelag::Fakelag(CUserCmd *pCmd, bool &bSendPacket) // terrible code do not
 				}
 				break;
 
-				case 2: // Mirror Adaptive
+				case 2: // TornadoNight Adaptive
 				{
-					mirror_adaptive(bSendPacket, pLocal, in_air ? fakelag_inair : fakelag_moving, break_lc, pCmd);
+					tornadonight_adaptive(bSendPacket, pLocal, in_air ? fakelag_inair : fakelag_moving, break_lc, pCmd);
 				}
 				break;
 

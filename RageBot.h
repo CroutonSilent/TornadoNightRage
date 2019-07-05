@@ -37,7 +37,7 @@ public:
 	bool CanOpenFire(IClientEntity * local);
 	void delay_shot(IClientEntity * ent, CUserCmd * pcmd);
 
-	void mirror_console_debug(IClientEntity * the_nignog);
+	void tornadonight_console_debug(IClientEntity * the_nignog);
 	void DoAimbot(CUserCmd *pCmd, bool &bSendPacket);
 	bool TargetMeetsRequirements(IClientEntity * pEntity, IClientEntity * local);
 	void DoNoRecoil(CUserCmd *pCmd);

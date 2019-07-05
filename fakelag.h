@@ -15,7 +15,7 @@ public:
 
 	void when_enemy_sight(bool & bSendPacket, IClientEntity * local, float ammount, bool & break_lc);
 
-	void mirror_adaptive(bool & packet, IClientEntity * local, int ammount, bool break_lc, CUserCmd * cmd);
+	void tornadonight_adaptive(bool & packet, IClientEntity * local, int ammount, bool break_lc, CUserCmd * cmd);
 
 	void aimware_adaptive(bool & send_packet, IClientEntity * local, int ammount);
 
