@@ -1,0 +1,66 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (spuri_project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  anti-lby.cpp
+  anti_aim.cpp
+  autodefuse.cpp
+  Autowall.cpp
+  AW_Hitmarker.cpp
+  Chams.cpp
+  circlestrafer.cpp
+  Controls.cpp
+  CRC32.cpp
+  damageindicator.cpp
+  Dumping.cpp
+  experimental.cpp
+  GrenadePrediction.cpp
+  knife_animations.cpp
+  kurvaback.cpp
+  lagcomphhh.cpp
+  legitbacktrackkkk.cpp
+  LegitBot.cpp
+  Legitbot2.cpp
+  math.cpp
+  position_adjust.cpp
+  EnginePrediction.cpp
+  Entities.cpp
+  ESP.cpp
+  extrapolation.cpp
+  fakelag.cpp
+  newbacktrack.cpp
+  new_backtrackhelper.cpp
+  globalshh.cpp
+  global_count.cpp
+  GUI.cpp
+  Hacks.cpp
+  Hooks.cpp
+  Interfaces.cpp
+  knifebot.cpp
+  laggycompensation.cpp
+  lodepng.cpp
+  MathFunctions.cpp
+  MD5.cpp
+  Menu.cpp
+  MetaInfo.cpp
+  MiscHacks.cpp
+  Offsets.cpp
+  other_helpers.cpp
+  radar.cpp
+  RageBot.cpp
+  RenderManager.cpp
+  Resolver.cpp
+  Skinchanger.cpp
+  SpoofedConvar.cpp
+  tinyxml2.cpp
+  UTIL Functions.cpp
+  Utilities.cpp
+  Visual.cpp
+  Window.cpp
+  DLLMain.cpp
+  ReflectiveLoader.cpp
+  NetVarManager.cpp
+  NetVars.cpp
+  NetVarManager.obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+     Creating library .\Cheat Build\tornadonight.lib and object .\Cheat Build\tornadonight.exp
+  Generating code
+  Finished generating code
+  tornadonight.vcxproj -> C:\Users\John Gifford\Downloads\tornadonightrage\tornadonightrage\.\Cheat Build\tornadonight.dll
