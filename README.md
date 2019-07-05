@@ -9,6 +9,7 @@ The Menu is pasted from an old version of Mirror
 List Of Pasted Features
 1. Menu
 2. One Of the Resolvers
+3. Some Sounds
 
 # Where are configs stored?
 
