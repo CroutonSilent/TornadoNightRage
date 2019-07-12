@@ -808,6 +808,10 @@ bool __stdcall CreateMoveClient_Hooked(float frametime, CUserCmd* pCmd)
 					{
 						NightSkybox1->SetValue("sky_cs15_daylight02_hdr");
 					}
+					if (options::menu.visuals_tab.customskies.GetIndex() == 5)
+					{
+						NightSkybox1->SetValue("sky_descent");
+					}
 				//	if (options::menu.visuals_tab.customskies.GetIndex() == 5)
 				//	{
 				//		NightSkybox1->SetValue("cs_baggage_skybox_");

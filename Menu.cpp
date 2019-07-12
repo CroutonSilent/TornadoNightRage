@@ -1031,6 +1031,7 @@ void CVisualTab::Setup()
 	customskies.AddItem("nosky");
 	customskies.AddItem("cloudy");
 	customskies.AddItem("daylight");
+	customskies.AddItem("galaxy");
 	//customskies.AddItem("baggage");
 	worldgroup.PlaceLabledControl(1, "skybox", this, &customskies);
 

@@ -468,8 +468,8 @@ Color getRainbow(int speed, int offset)
 
 	if (options::menu.ColorsTab.MenuBar.GetIndex() == 0)
 	{
-		//Render::DrawRectRainbow(window->m_x + 0, window->m_y + 0, (window->m_iWidth - 0), 1, 0.0050f, rainbow, MenuAlpha);
-		Render::Text(window->m_x + 185, window->m_y + 2, Color (26, 130, 228, 50), Render::Fonts::Menu, "$TornadoNight.xyz Beta$");
+		Render::DrawRectRainbow(window->m_x + 0, window->m_y + 0, (window->m_iWidth - 0), 1, 0.0050f, rainbow, MenuAlpha);
+		Render::Text(window->m_x + 185, window->m_y + 2, Color (26, 130, 228, 50), Render::Fonts::Menu, "TornadoNight.xyz Rage Beta");
 
 		
 	}
