@@ -349,9 +349,10 @@ void CGUI::Update()
 		{
 			if (options::menu.visuals_tab.watermark.GetState())
 			{
-				Render::Text((centerW * 2) - 110, 2, Color(250, 250, 200, (MenuAlpha - 1)), Render::Fonts::Menutop, "TornadoNight.xyz Beta Version");
-				//Render::Text((centerW * 2) - 70, 15, Color(250, 250, 200, (MenuAlpha - 1)), Render::Fonts::Menutop, "private");
-			//	Render::Text((centerW * 2) - 300, 35, Color(150, 10, 230, (MenuAlpha - 1)), Render::Fonts::xd, "%s", __DATE__);
+
+				Render::Text((centerW * 2) - 110, 2, Color(162, 23, 255, (MenuAlpha - 1)), Render::Fonts::Menutop, "TornadoNight.xyz Beta Version");
+				Render::Text((centerW * 2) - 70, 15, Color(162, 23, 255, (MenuAlpha - 1)), Render::Fonts::Menutop, "Rage");
+				//Render::Text((centerW * 2) - 300, 35, Color(150, 10, 230, (MenuAlpha - 1)), Render::Fonts::Menutop, "%s", __DATE__);
 			}
 		}
 	
