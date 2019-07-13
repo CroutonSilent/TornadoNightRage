@@ -18,4 +18,4 @@ C:\\8362342\\cfg\\
 
 # Join the Discord
 
-https://discord.gg/3R7aA4P
+https://discord.gg/hhW9pX8
